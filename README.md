@@ -45,7 +45,11 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
 ```bash
+<<<<<<< HEAD
 
+=======
+git clone https://github.com/sangal29/Todo_App.git
+>>>>>>> 69d4f8a85d21824d99c4abb08cdc5310b0b25b5f
 cd Todo_App
 ```
 
