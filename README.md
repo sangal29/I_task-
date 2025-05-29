@@ -48,8 +48,7 @@ Make sure you have the following installed:
 <<<<<<< HEAD
 
 =======
-git clone https://github.com/sangal29/Todo_App.git
->>>>>>> 69d4f8a85d21824d99c4abb08cdc5310b0b25b5f
+git clone https://github.com/sangal29/I_task-.git
 cd Todo_App
 ```
 
